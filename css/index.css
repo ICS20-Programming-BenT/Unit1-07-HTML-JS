@@ -13,10 +13,12 @@ h1 {
   color: #FFEDD8;
   padding: 40px;
   text-align: center;
+  font-weight: 900;
 }
 
 p {
   background-color: #603808;
   color: #FFEDD8;
   padding: 10px;
+  font-weight: 900;
 }
