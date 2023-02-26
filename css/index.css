@@ -1,16 +1,16 @@
 /* Created by: Ben Thomson
  * Created on: 2023-02-24
- * This CSS file defines the style for index.html 
+ * This CSS file defines the style for index.html
 */
 
 body {
-  background-color: #F3D5B5;
+  background-color: #f3d5b5;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
   background-color: #603808;
-  color: #FFEDD8;
+  color: #ffedd8;
   padding: 40px;
   text-align: center;
   font-weight: 900;
@@ -18,7 +18,7 @@ h1 {
 
 p {
   background-color: #603808;
-  color: #FFEDD8;
+  color: #ffedd8;
   padding: 10px;
   font-weight: 900;
 }
